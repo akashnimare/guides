@@ -1,0 +1,19 @@
+.dataTables_filter {
+        margin: 2px 0;
+      }
+      .dataTables_filter label {
+        font-size: 20px;
+        text-align: center;
+      }
+      .dataTables_filter input {
+        margin-left: 1px;
+        font-size: 17px;
+        height: 25px;
+        width: 300px;
+        padding: 5px;
+      }
+      .table{
+        table-layout: fixed;
+    width: 1200px;
+    word-wrap:break-word;
+      }
