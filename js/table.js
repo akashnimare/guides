@@ -17,7 +17,6 @@
       "bInfo": false,
       "bSort": true,
       "bAutoWidth": false,
-
       "aaSorting": [
         [0, 'asc']
       ]
